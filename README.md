@@ -13,6 +13,7 @@ and experiments with financial data and machine learning.
 
 | Project | What it explores |
 | --- | --- |
+| [Credit Doc Lab](https://github.com/peterthelander/credit-doc-lab) | *New.* Extracting structured loan terms from public credit agreements: a Gemini baseline with reproducible, held-out evaluation on a public benchmark, before comparing it with a document-navigation agent. |
 | [Entourage](https://github.com/peterthelander/entourage) | A personal agent with a React/TypeScript browser interface, a Python service, local inference, and shared conversation history. |
 | [AI Orchestrator](https://github.com/peterthelander/ai-orchestrator) | Bounded coding-agent workflows with deterministic checks, separate implementation/review contexts, and documented experiments. |
 | [Dungeon Harness](https://github.com/peterthelander/dungeon-harness) | An illustrated, conversational AI Dungeon Master for player-supplied adventure PDFs. |
